@@ -121,4 +121,5 @@ npm run dev
 
 ## License
 
-Add a license of your choice (for example [MIT](https://choosealicense.com/licenses/mit/)) or remove this section.
+Ahmedaluraimi@gmail.com
+
